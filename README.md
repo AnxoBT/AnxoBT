@@ -1,9 +1,10 @@
-<h1 align="center">Hi, I'm AnxoBT 👋</h1>
+<details open>
+<summary><b>English</b></summary>
 
-<p align="center">
-  Android developer · Automation<br>
-  📍 Galicia, Spain
-</p>
+<br>
+
+<h2 align="center">Hi, I'm AnxoBT 👋</h2>
+<p align="center">Android developer · Automation<br>📍 Galicia, Spain</p>
 
 <p align="center">
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
@@ -13,13 +14,6 @@
   <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 </p>
-
-<br>
-
-<details open>
-<summary><b>English</b></summary>
-
-<br>
 
 I build Android apps that run entirely on the device: no accounts, no tracking, nothing leaves
 your phone. I also write tools that automate repetitive work.
@@ -46,12 +40,36 @@ your phone. I also write tools that automate repetitive work.
   </tr>
 </table>
 
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AnxoBT&show_icons=true&hide_border=true&theme=github_dark&hide_title=true">
+    <img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AnxoBT&show_icons=true&hide_border=true&hide_title=true">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AnxoBT&layout=compact&hide_border=true&theme=github_dark&hide_title=true">
+    <img height="150" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnxoBT&layout=compact&hide_border=true&hide_title=true">
+  </picture>
+</p>
+
 </details>
 
 <details>
 <summary><b>Español</b></summary>
 
 <br>
+
+<h2 align="center">Hola, soy AnxoBT 👋</h2>
+<p align="center">Desarrollador Android · Automatización<br>📍 Galicia, España</p>
+
+<p align="center">
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
+  <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white">
+  <img alt="Android" src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+</p>
 
 Hago apps Android que funcionan por completo en el propio móvil: sin cuentas, sin rastreo y sin
 que nada salga del teléfono. También escribo herramientas para automatizar el trabajo repetitivo.
@@ -78,17 +96,16 @@ que nada salga del teléfono. También escribo herramientas para automatizar el 
   </tr>
 </table>
 
-</details>
-
-<br>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AnxoBT&show_icons=true&hide_border=true&theme=github_dark&hide_title=true">
-    <img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AnxoBT&show_icons=true&hide_border=true&hide_title=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AnxoBT&show_icons=true&hide_border=true&theme=github_dark&hide_title=true&locale=es">
+    <img height="150" alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=AnxoBT&show_icons=true&hide_border=true&hide_title=true&locale=es">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AnxoBT&layout=compact&hide_border=true&theme=github_dark&hide_title=true">
-    <img height="150" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnxoBT&layout=compact&hide_border=true&hide_title=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AnxoBT&layout=compact&hide_border=true&theme=github_dark&hide_title=true&locale=es">
+    <img height="150" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnxoBT&layout=compact&hide_border=true&hide_title=true&locale=es">
   </picture>
 </p>
+
+</details>
