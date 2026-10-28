@@ -2,7 +2,7 @@
 
 <p align="center">
   Android developer · Automation<br>
-  Galicia, Spain
+  📍 Galicia, Spain
 </p>
 
 <p align="center">
@@ -14,6 +14,8 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 </p>
 
+<br>
+
 <details open>
 <summary><b>English</b></summary>
 
@@ -22,17 +24,27 @@
 I build Android apps that run entirely on the device: no accounts, no tracking, nothing leaves
 your phone. I also write tools that automate repetitive work.
 
-**Currently working on**
+#### 🛠️ What I'm working on
 
 - Native Android apps with Kotlin, Jetpack Compose and Material 3
 - On-device image processing and AI (LiteRT on the GPU, ML Kit)
 - Small automation scripts in Python and Bash
 
-**Featured project**
+#### 📌 Featured project
 
-[**Wallpaper Editor**](https://github.com/AnxoBT/wallpaper-editor): a photo editor that fits any
-image to your exact screen resolution, plus a live wallpaper that cycles through your photos with
-a double tap and a clock widget that matches the wallpaper.
+<table>
+  <tr>
+    <td width="96" valign="top">
+      <a href="https://github.com/AnxoBT/wallpaper-editor"><img src="https://raw.githubusercontent.com/AnxoBT/wallpaper-editor/main/docs/icon.png" width="80" alt="Wallpaper Editor icon"></a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/AnxoBT/wallpaper-editor"><b>Wallpaper Editor</b></a><br>
+      A photo editor that fits any image to your exact screen resolution, plus a live wallpaper
+      that cycles through your photos with a double tap and a clock widget that matches the wallpaper.<br>
+      <sub>Kotlin · Jetpack Compose · LiteRT · ML Kit</sub>
+    </td>
+  </tr>
+</table>
 
 </details>
 
@@ -44,17 +56,27 @@ a double tap and a clock widget that matches the wallpaper.
 Hago apps Android que funcionan por completo en el propio móvil: sin cuentas, sin rastreo y sin
 que nada salga del teléfono. También escribo herramientas para automatizar el trabajo repetitivo.
 
-**En qué trabajo**
+#### 🛠️ En qué trabajo
 
 - Apps Android nativas con Kotlin, Jetpack Compose y Material 3
 - Procesado de imagen e IA en el dispositivo (LiteRT en la GPU, ML Kit)
 - Scripts de automatización en Python y Bash
 
-**Proyecto destacado**
+#### 📌 Proyecto destacado
 
-[**Wallpaper Editor**](https://github.com/AnxoBT/wallpaper-editor): editor de fotos que adapta
-cualquier imagen a la resolución exacta de tu pantalla, con un fondo de pantalla dinámico que
-cambia de foto con un doble toque y un widget de reloj que se adapta al fondo.
+<table>
+  <tr>
+    <td width="96" valign="top">
+      <a href="https://github.com/AnxoBT/wallpaper-editor"><img src="https://raw.githubusercontent.com/AnxoBT/wallpaper-editor/main/docs/icon.png" width="80" alt="Icono de Wallpaper Editor"></a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/AnxoBT/wallpaper-editor"><b>Wallpaper Editor</b></a><br>
+      Editor de fotos que adapta cualquier imagen a la resolución exacta de tu pantalla, con un fondo
+      de pantalla dinámico que cambia de foto con un doble toque y un widget de reloj que se adapta al fondo.<br>
+      <sub>Kotlin · Jetpack Compose · LiteRT · ML Kit</sub>
+    </td>
+  </tr>
+</table>
 
 </details>
 
