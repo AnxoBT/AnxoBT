@@ -40,7 +40,7 @@ I also automate the repetitive stuff so people can focus on what matters.
 
 ## 🚀 Featured project
 
-### 🖼️ Wallpaper Editor
+### 🖼️ [Wallpaper Editor](https://github.com/AnxoBT/wallpaper-editor)
 
 A Snapseed-style photo editor that fits any image to your exact screen resolution, plus a live
 wallpaper slideshow with a home-screen clock widget.
@@ -50,7 +50,10 @@ wallpaper slideshow with a home-screen clock widget.
 - 🕒 Clock widget that adapts its colour to the current wallpaper.
 - 🔋 Zero background battery use · 🔒 everything stays on the phone.
 
-`Kotlin` · `Jetpack Compose` · `LiteRT` · `ML Kit` — *coming soon as open source*
+`Kotlin` · `Jetpack Compose` · `LiteRT` · `ML Kit`
+
+[![View repository](https://img.shields.io/badge/View%20repository-F2785C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnxoBT/wallpaper-editor)
+[![Download APK](https://img.shields.io/badge/Download%20APK-A06CF5?style=for-the-badge&logo=android&logoColor=white)](https://github.com/AnxoBT/wallpaper-editor/releases/latest)
 
 ## 📊 GitHub stats
 
@@ -58,6 +61,10 @@ wallpaper slideshow with a home-screen clock widget.
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AnxoBT&show_icons=true&hide_border=true&theme=github_dark&title_color=F2785C&icon_color=A06CF5">
     <img height="165" alt="AnxoBT's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AnxoBT&show_icons=true&hide_border=true&title_color=F2785C&icon_color=A06CF5">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AnxoBT&layout=compact&hide_border=true&theme=github_dark&title_color=F2785C">
+    <img height="165" alt="AnxoBT's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnxoBT&layout=compact&hide_border=true&title_color=F2785C">
   </picture>
 </p>
 

@@ -40,7 +40,7 @@ También automatizo lo repetitivo para que la gente se centre en lo que importa.
 
 ## 🚀 Proyecto destacado
 
-### 🖼️ Wallpaper Editor
+### 🖼️ [Wallpaper Editor](https://github.com/AnxoBT/wallpaper-editor)
 
 Editor de fotos al estilo Snapseed que adapta cualquier imagen a la resolución exacta de tu
 pantalla, y fondo de pantalla dinámico con widget de reloj.
@@ -50,7 +50,10 @@ pantalla, y fondo de pantalla dinámico con widget de reloj.
 - 🕒 Widget de reloj que adapta su color al fondo actual.
 - 🔋 Sin consumo en segundo plano · 🔒 nada sale del móvil.
 
-`Kotlin` · `Jetpack Compose` · `LiteRT` · `ML Kit` — *próximamente como código abierto*
+`Kotlin` · `Jetpack Compose` · `LiteRT` · `ML Kit`
+
+[![Ver repositorio](https://img.shields.io/badge/Ver%20repositorio-F2785C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnxoBT/wallpaper-editor)
+[![Descargar APK](https://img.shields.io/badge/Descargar%20APK-A06CF5?style=for-the-badge&logo=android&logoColor=white)](https://github.com/AnxoBT/wallpaper-editor/releases/latest)
 
 ## 📊 Estadísticas de GitHub
 
@@ -58,6 +61,10 @@ pantalla, y fondo de pantalla dinámico con widget de reloj.
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AnxoBT&show_icons=true&hide_border=true&theme=github_dark&title_color=F2785C&icon_color=A06CF5&locale=es">
     <img height="165" alt="Estadísticas de GitHub de AnxoBT" src="https://github-readme-stats.vercel.app/api?username=AnxoBT&show_icons=true&hide_border=true&title_color=F2785C&icon_color=A06CF5&locale=es">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AnxoBT&layout=compact&hide_border=true&theme=github_dark&title_color=F2785C&locale=es">
+    <img height="165" alt="Lenguajes más usados por AnxoBT" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnxoBT&layout=compact&hide_border=true&title_color=F2785C&locale=es">
   </picture>
 </p>
 
