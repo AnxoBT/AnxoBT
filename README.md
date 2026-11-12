@@ -15,16 +15,16 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 </p>
 
-I build Android apps that run entirely on the device: no accounts, no tracking, nothing leaves
-your phone. I also write tools that automate repetitive work.
+I build apps for Android, Windows and iPhone that respect your privacy (no tracking, your data
+stays yours), and tools that automate repetitive work.
 
 #### 🛠️ What I'm working on
 
 - Native Android apps with Kotlin, Jetpack Compose and Material 3
 - On-device image processing and AI (LiteRT on the GPU, ML Kit)
-- Small automation scripts in Python and Bash
+- Automation tools in Python: syncing data between services through their APIs
 
-#### 📌 Featured project
+#### 📌 Projects
 
 <table>
   <tr>
@@ -38,17 +38,28 @@ your phone. I also write tools that automate repetitive work.
       <sub>Kotlin · Jetpack Compose · LiteRT · ML Kit</sub>
     </td>
   </tr>
+  <tr>
+    <td width="96" valign="top">
+      <a href="https://github.com/AnxoBT/tri-sync"><img src="https://raw.githubusercontent.com/AnxoBT/tri-sync/main/docs/icon.png" width="80" alt="Tri-Sync icon"></a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/AnxoBT/tri-sync"><b>Tri-Sync</b></a><br>
+      Keeps your watch history in sync between Dixmax, Letterboxd, Serializd and AniList: review the
+      differences, fix them in one click and explore your statistics.<br>
+      <sub>Python · Windows · Android · iPhone (test)</sub>
+    </td>
+  </tr>
 </table>
 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AnxoBT&show_icons=true&hide_border=true&theme=github_dark&hide_title=true">
-    <img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AnxoBT&show_icons=true&hide_border=true&hide_title=true">
+    <source media="(prefers-color-scheme: dark)" srcset="stats/stats-en-dark.svg">
+    <img height="150" alt="GitHub stats" src="stats/stats-en-light.svg">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AnxoBT&layout=compact&hide_border=true&theme=github_dark&hide_title=true">
-    <img height="150" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnxoBT&layout=compact&hide_border=true&hide_title=true">
+    <source media="(prefers-color-scheme: dark)" srcset="stats/langs-en-dark.svg">
+    <img height="150" alt="Most used languages" src="stats/langs-en-light.svg">
   </picture>
 </p>
 
@@ -71,16 +82,16 @@ your phone. I also write tools that automate repetitive work.
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 </p>
 
-Hago apps Android que funcionan por completo en el propio móvil: sin cuentas, sin rastreo y sin
-que nada salga del teléfono. También escribo herramientas para automatizar el trabajo repetitivo.
+Hago apps para Android, Windows y iPhone que respetan tu privacidad (sin rastreo, tus datos son
+tuyos) y herramientas que automatizan el trabajo repetitivo.
 
 #### 🛠️ En qué trabajo
 
 - Apps Android nativas con Kotlin, Jetpack Compose y Material 3
 - Procesado de imagen e IA en el dispositivo (LiteRT en la GPU, ML Kit)
-- Scripts de automatización en Python y Bash
+- Herramientas de automatización en Python: sincronizar datos entre servicios con sus API
 
-#### 📌 Proyecto destacado
+#### 📌 Proyectos
 
 <table>
   <tr>
@@ -94,17 +105,28 @@ que nada salga del teléfono. También escribo herramientas para automatizar el 
       <sub>Kotlin · Jetpack Compose · LiteRT · ML Kit</sub>
     </td>
   </tr>
+  <tr>
+    <td width="96" valign="top">
+      <a href="https://github.com/AnxoBT/tri-sync"><img src="https://raw.githubusercontent.com/AnxoBT/tri-sync/main/docs/icon.png" width="80" alt="Icono de Tri-Sync"></a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/AnxoBT/tri-sync"><b>Tri-Sync</b></a><br>
+      Mantiene tu historial sincronizado entre Dixmax, Letterboxd, Serializd y AniList: revisa las
+      diferencias, corrígelas con un clic y explora tus estadísticas.<br>
+      <sub>Python · Windows · Android · iPhone (prueba)</sub>
+    </td>
+  </tr>
 </table>
 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AnxoBT&show_icons=true&hide_border=true&theme=github_dark&hide_title=true&locale=es">
-    <img height="150" alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=AnxoBT&show_icons=true&hide_border=true&hide_title=true&locale=es">
+    <source media="(prefers-color-scheme: dark)" srcset="stats/stats-es-dark.svg">
+    <img height="150" alt="Estadísticas de GitHub" src="stats/stats-es-light.svg">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AnxoBT&layout=compact&hide_border=true&theme=github_dark&hide_title=true&locale=es">
-    <img height="150" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnxoBT&layout=compact&hide_border=true&hide_title=true&locale=es">
+    <source media="(prefers-color-scheme: dark)" srcset="stats/langs-es-dark.svg">
+    <img height="150" alt="Lenguajes más usados" src="stats/langs-es-light.svg">
   </picture>
 </p>
 
