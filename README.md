@@ -49,6 +49,17 @@ stays yours), and tools that automate repetitive work.
       <sub>Python · Windows · Android · iPhone (test)</sub>
     </td>
   </tr>
+  <tr>
+    <td width="96" valign="top">
+      <a href="https://github.com/AnxoBT/chronify"><img src="https://raw.githubusercontent.com/AnxoBT/chronify/main/web/icono-512.png" width="80" alt="Chronify icon"></a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/AnxoBT/chronify"><b>Chronify</b></a><br>
+      Sorts your Spotify playlists by the real release date of every song and checks that they agree
+      with each other, with statistics about your music.<br>
+      <sub>Python · Windows · Android · Web</sub>
+    </td>
+  </tr>
 </table>
 
 
@@ -114,6 +125,17 @@ tuyos) y herramientas que automatizan el trabajo repetitivo.
       Mantiene tu historial sincronizado entre Dixmax, Letterboxd, Serializd y AniList: revisa las
       diferencias, corrígelas con un clic y explora tus estadísticas.<br>
       <sub>Python · Windows · Android · iPhone (prueba)</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="96" valign="top">
+      <a href="https://github.com/AnxoBT/chronify"><img src="https://raw.githubusercontent.com/AnxoBT/chronify/main/web/icono-512.png" width="80" alt="Icono de Chronify"></a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/AnxoBT/chronify"><b>Chronify</b></a><br>
+      Ordena tus listas de Spotify por la fecha real de cada canción y comprueba que cuadran entre sí,
+      con estadísticas de tu música.<br>
+      <sub>Python · Windows · Android · Web</sub>
     </td>
   </tr>
 </table>
