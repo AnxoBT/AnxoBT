@@ -51,7 +51,7 @@ stays yours), and tools that automate repetitive work.
   </tr>
   <tr>
     <td width="96" valign="top">
-      <a href="https://github.com/AnxoBT/chronify"><img src="https://raw.githubusercontent.com/AnxoBT/chronify/main/web/icono-512.png" width="80" alt="Chronify icon"></a>
+      <a href="https://github.com/AnxoBT/chronify"><img src="https://raw.githubusercontent.com/AnxoBT/chronify/main/web/logo.png" width="80" alt="Chronify icon"></a>
     </td>
     <td valign="top">
       <a href="https://github.com/AnxoBT/chronify"><b>Chronify</b></a><br>
@@ -129,7 +129,7 @@ tuyos) y herramientas que automatizan el trabajo repetitivo.
   </tr>
   <tr>
     <td width="96" valign="top">
-      <a href="https://github.com/AnxoBT/chronify"><img src="https://raw.githubusercontent.com/AnxoBT/chronify/main/web/icono-512.png" width="80" alt="Icono de Chronify"></a>
+      <a href="https://github.com/AnxoBT/chronify"><img src="https://raw.githubusercontent.com/AnxoBT/chronify/main/web/logo.png" width="80" alt="Icono de Chronify"></a>
     </td>
     <td valign="top">
       <a href="https://github.com/AnxoBT/chronify"><b>Chronify</b></a><br>
