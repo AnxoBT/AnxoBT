@@ -24,6 +24,8 @@ repetitive work.
 - Native Android apps with Kotlin, Jetpack Compose and Material 3, also on Windows with Compose Desktop
 - On-device image processing and AI (LiteRT on the GPU, ML Kit)
 - Python apps that run on the PC, Android and iPhone and keep your data in sync through public APIs
+- Local-first design: data stays on your devices, with encrypted PC ↔ phone sync over Wi-Fi
+- Release automation with GitHub Actions: signed builds for every platform and in-app update notices
 
 #### 📌 Projects
 
@@ -49,8 +51,9 @@ repetitive work.
     <td valign="top">
       <a href="https://github.com/AnxoBT/tri-sync"><b>Tri-Sync</b></a>
       <a href="https://github.com/AnxoBT/tri-sync/releases/latest"><img alt="version" src="https://img.shields.io/github/v/release/AnxoBT/tri-sync?style=flat-square&label=version&color=3FB0FF"></a><br>
-      Keeps your watch history in sync between Dixmax, Letterboxd, Serializd and AniList: review the
-      differences, fix them in one click and explore your statistics.<br>
+      Keeps your watch history in sync between Letterboxd, Serializd, AniList and Dixmax, in any
+      combination: review the differences, fix them in one click, explore your statistics and sync
+      the PC and the phone over USB or Wi-Fi.<br>
       <sub>Windows · Android · iPhone (test) · <a href="https://github.com/AnxoBT/tri-sync/releases/latest">Download</a></sub><br>
       <sub>Python · Chaquopy · BeeWare</sub>
     </td>
@@ -63,7 +66,7 @@ repetitive work.
       <a href="https://github.com/AnxoBT/chronify"><b>Chronify</b></a>
       <a href="https://github.com/AnxoBT/chronify/releases/latest"><img alt="version" src="https://img.shields.io/github/v/release/AnxoBT/chronify?style=flat-square&label=version&color=1DB954"></a><br>
       Sorts your Spotify playlists by the real release date of every song, checks that they agree with
-      each other and shows statistics about your music.<br>
+      each other and shows statistics about your music; it syncs the PC and the phone over USB or Wi-Fi.<br>
       <sub>Windows · macOS · Linux · Android · Web · <a href="https://github.com/AnxoBT/chronify/releases/latest">Download</a> · <a href="https://anxobt.github.io/chronify/">Web app</a></sub><br>
       <sub>Python · Spotify API · MusicBrainz · Pyodide (PWA)</sub>
     </td>
@@ -113,6 +116,8 @@ automatizan el trabajo repetitivo.
 - Apps Android nativas con Kotlin, Jetpack Compose y Material 3, también en Windows con Compose Desktop
 - Procesado de imagen e IA en el dispositivo (LiteRT en la GPU, ML Kit)
 - Apps en Python que funcionan en el PC, Android y iPhone y mantienen tus datos sincronizados con API públicas
+- Diseño local: tus datos se quedan en tus dispositivos, con sincronización PC ↔ móvil cifrada por Wi-Fi
+- Publicación automatizada con GitHub Actions: versiones firmadas para cada plataforma y aviso de actualización en la app
 
 #### 📌 Proyectos
 
@@ -138,8 +143,9 @@ automatizan el trabajo repetitivo.
     <td valign="top">
       <a href="https://github.com/AnxoBT/tri-sync"><b>Tri-Sync</b></a>
       <a href="https://github.com/AnxoBT/tri-sync/releases/latest"><img alt="versión" src="https://img.shields.io/github/v/release/AnxoBT/tri-sync?style=flat-square&label=versión&color=3FB0FF"></a><br>
-      Mantiene tu historial sincronizado entre Dixmax, Letterboxd, Serializd y AniList: revisa las
-      diferencias, corrígelas con un clic y explora tus estadísticas.<br>
+      Mantiene tu historial sincronizado entre Letterboxd, Serializd, AniList y Dixmax, en cualquier
+      combinación: revisa las diferencias, corrígelas con un clic, explora tus estadísticas y
+      sincroniza el PC y el móvil por USB o Wi-Fi.<br>
       <sub>Windows · Android · iPhone (prueba) · <a href="https://github.com/AnxoBT/tri-sync/releases/latest">Descargar</a></sub><br>
       <sub>Python · Chaquopy · BeeWare</sub>
     </td>
@@ -152,7 +158,7 @@ automatizan el trabajo repetitivo.
       <a href="https://github.com/AnxoBT/chronify"><b>Chronify</b></a>
       <a href="https://github.com/AnxoBT/chronify/releases/latest"><img alt="versión" src="https://img.shields.io/github/v/release/AnxoBT/chronify?style=flat-square&label=versión&color=1DB954"></a><br>
       Ordena tus listas de Spotify por la fecha real de cada canción, comprueba que cuadran entre sí y
-      muestra estadísticas de tu música.<br>
+      muestra estadísticas de tu música; sincroniza el PC y el móvil por USB o Wi-Fi.<br>
       <sub>Windows · macOS · Linux · Android · Web · <a href="https://github.com/AnxoBT/chronify/releases/latest">Descargar</a> · <a href="https://anxobt.github.io/chronify/">App web</a></sub><br>
       <sub>Python · Spotify API · MusicBrainz · Pyodide (PWA)</sub>
     </td>
