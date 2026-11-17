@@ -22,7 +22,7 @@ repetitive work.
 #### 🛠️ What I work on
 
 - Native Android apps with Kotlin, Jetpack Compose and Material 3, also on Windows with Compose Desktop
-- On-device image processing and AI (LiteRT on the GPU, ML Kit)
+- Image processing on the device: smart fill, texture synthesis, filters and duplicate detection
 - Python apps that run on the PC, Android and iPhone and keep your data in sync through public APIs
 - Local-first design: data stays on your devices, with encrypted PC ↔ phone sync over Wi-Fi
 - Release automation with GitHub Actions: signed builds for every platform and in-app update notices
@@ -37,11 +37,11 @@ repetitive work.
     <td valign="top">
       <a href="https://github.com/AnxoBT/wallpaper-editor"><b>Wallpaper Editor</b></a>
       <a href="https://github.com/AnxoBT/wallpaper-editor/releases/latest"><img alt="version" src="https://img.shields.io/github/v/release/AnxoBT/wallpaper-editor?style=flat-square&label=version&color=F2785C"></a><br>
-      Fits any photo to your exact screen resolution, with a full editor (on-device AI healing, layers,
+      Fits any photo to your exact screen resolution, with a full editor (healing, layers, curves,
       filters). Turns your gallery into a live wallpaper that changes with a double tap, with a clock
       widget that matches each photo.<br>
       <sub>Android · Windows · iPhone (test) · <a href="https://github.com/AnxoBT/wallpaper-editor/releases/latest">Download</a></sub><br>
-      <sub>Kotlin · Jetpack Compose · Compose Desktop · LiteRT · ML Kit · SwiftUI</sub>
+      <sub>Kotlin · Jetpack Compose · Compose Desktop · SwiftUI</sub>
     </td>
   </tr>
   <tr>
@@ -114,7 +114,7 @@ automatizan el trabajo repetitivo.
 #### 🛠️ En qué trabajo
 
 - Apps Android nativas con Kotlin, Jetpack Compose y Material 3, también en Windows con Compose Desktop
-- Procesado de imagen e IA en el dispositivo (LiteRT en la GPU, ML Kit)
+- Procesado de imagen en el dispositivo: relleno inteligente, síntesis de texturas, filtros y detección de repetidas
 - Apps en Python que funcionan en el PC, Android y iPhone y mantienen tus datos sincronizados con API públicas
 - Diseño local: tus datos se quedan en tus dispositivos, con sincronización PC ↔ móvil cifrada por Wi-Fi
 - Publicación automatizada con GitHub Actions: versiones firmadas para cada plataforma y aviso de actualización en la app
@@ -129,11 +129,11 @@ automatizan el trabajo repetitivo.
     <td valign="top">
       <a href="https://github.com/AnxoBT/wallpaper-editor"><b>Wallpaper Editor</b></a>
       <a href="https://github.com/AnxoBT/wallpaper-editor/releases/latest"><img alt="versión" src="https://img.shields.io/github/v/release/AnxoBT/wallpaper-editor?style=flat-square&label=versión&color=F2785C"></a><br>
-      Adapta cualquier foto a la resolución exacta de tu pantalla, con un editor completo (corrector con
-      IA en el móvil, capas, filtros). Convierte tu galería en un fondo dinámico que cambia con un doble
+      Adapta cualquier foto a la resolución exacta de tu pantalla, con un editor completo (corrector,
+      capas, filtros, curvas). Convierte tu galería en un fondo dinámico que cambia con un doble
       toque, con un widget de reloj que se adapta a cada foto.<br>
       <sub>Android · Windows · iPhone (prueba) · <a href="https://github.com/AnxoBT/wallpaper-editor/releases/latest">Descargar</a></sub><br>
-      <sub>Kotlin · Jetpack Compose · Compose Desktop · LiteRT · ML Kit · SwiftUI</sub>
+      <sub>Kotlin · Jetpack Compose · Compose Desktop · SwiftUI</sub>
     </td>
   </tr>
   <tr>
